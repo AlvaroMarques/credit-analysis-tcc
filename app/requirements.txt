@@ -1,0 +1,8 @@
+optuna
+imblearn
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
